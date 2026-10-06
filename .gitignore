@@ -1,0 +1,10 @@
+# Raw dataset files are reproducible from the source link and stay out of Git.
+data/
+
+# Jupyter's local state
+.ipynb_checkpoints/
+
+# Python environments and caches
+.venv/
+__pycache__/
+*.py[cod]
